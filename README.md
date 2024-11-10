@@ -25,3 +25,10 @@ Notes:
 
   - 3-Hook Slide On Hanger
     - None
+
+
+## Printing
+
+These parts are intended to be printed out of PETG to allow the parts to flex slightly and provide a better fit, but can be printed out of most common filaments. 
+
+To provide the most strength, 
